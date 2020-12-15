@@ -6,8 +6,8 @@ tips = []
 for tip in t:
     tips.append(tip.name)
 
-Archaea = open("taraarc.csv")
-Bacteria = open("tarabac.csv")
+Archaea = open("arc.csv")
+Bacteria = open("bac.csv")
 
 archaea = []
 bacteria = []
