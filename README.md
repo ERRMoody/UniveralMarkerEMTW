@@ -1,6 +1,6 @@
 # UniveralMarkerEMTW
-Estimating the genetic distance between Archaea and Bacteria from universal marker genes, python scripts, alignments, constraint trees, result files and concatenations
-
+This is the data supplement for the manuscript:
+This repository contains sequence alignments, trees, and python scripts used for analysis.
 
 
 constraint_alignments_and_domain_IDs: This dir contains the constraint trees, and the fastas necessary for the AU comparison
